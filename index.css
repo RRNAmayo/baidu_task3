@@ -1,0 +1,48 @@
+body{
+		margin:20px;   
+	}
+div{
+	padding:20px;
+	border:1px solid #999;
+	background-color: #fff;
+	box-sizing: border-box;
+}
+img{
+	vertical-align:text-top;
+	border:1px solid #999;
+	width: 80px;
+}
+
+#content{
+	background-color: #eee;
+}
+
+#left{
+	float: left;
+	width:200px;
+}
+
+#groupId{
+	vertical-align:text-top;
+}
+
+#middle{
+	margin-left: 220px;
+	margin-right: 140px;
+}
+
+#right{
+	float:right;
+	width: 124px;
+	padding-top: 0;
+}
+
+#right img{
+	margin-top: 20px;
+}
+
+#clr{
+	clear: both;
+	padding: 0;
+	border: 0;
+}
